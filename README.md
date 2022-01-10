@@ -4,6 +4,9 @@ jdk1.8
 
 idea打开就能用（应该吧）
 
+建议搭配弹幕姬食用
+实现点歌等功能，自带只有歌曲轮播
+
 
 下面链接是我部署在我的服务器上的
 https://xiugou.gejiahedashuaipi.top:64848/index/房间号
